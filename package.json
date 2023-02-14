@@ -1,0 +1,22 @@
+{
+  "name": "dsa-prep",
+  "version": "1.0.0",
+  "description": "This repo contains my DSA preparation journey",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/soumilbhattacharjee/DSA-Prep.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/soumilbhattacharjee/DSA-Prep/issues"
+  },
+  "homepage": "https://github.com/soumilbhattacharjee/DSA-Prep#readme",
+  "dependencies": {
+    "nodemon": "^2.0.20"
+  }
+}
