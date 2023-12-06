@@ -1,4 +1,4 @@
-/ * Link - https://leetcode.com/problems/shuffle-the-array/description/
+/* Link - https://leetcode.com/problems/shuffle-the-array/description/
 
 Date - 6/12/23
 
